@@ -7,5 +7,5 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 
 ## Presentación
 
-- [Lista de verificación de controles y cumplimiento](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Declaraci%C3%B3n%20profesional.docx)
+- [Lista de verificación de controles y cumplimiento](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
