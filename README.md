@@ -9,7 +9,7 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 
 ## Proyectos Destacados
 
-### 1. [Auditoría de Seguridad](./Project/Project)
+### 1. [Auditoría de Seguridad](./Project/Auditoria_de_seguridad/README.MD)
    - **Descripción:** Configuración y análisis de seguridad en redes empresariales utilizando herramientas como Wireshark y Nmap.
    - **Tecnologías:** Wireshark, Nmap, Firewall Configurations
 
