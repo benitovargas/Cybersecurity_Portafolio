@@ -1,6 +1,3 @@
-/Cybersecurity-Portfolio
-├── README.md
-
 # Cybersecurity_Portafolio
 Portafolio de proyectos y prácticas en Ciberseguridad.
 
