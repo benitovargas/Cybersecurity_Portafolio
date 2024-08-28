@@ -10,8 +10,8 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 ## Proyectos Destacados
 
 ### 1. [Auditoría de Seguridad](./Project/Auditoria_de_seguridad/README.MD)
-   - **Descripción:** Configuración y análisis de seguridad en redes empresariales utilizando herramientas como Wireshark y Nmap.
-   - **Tecnologías:** Wireshark, Nmap, Firewall Configurations
+   - **Descripción:** Este escenario se basa en una empresa ficticia: Botium Toys es una pequeña empresa estadounidense que desarrolla y vende juguetes.
+   - **Herramienta:** Lista de verificación
 
 - [Lista de verificación de controles y cumplimiento](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
