@@ -3,7 +3,7 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 
 ## Presentación
 
-- [Presentación del Portafolio](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Declaraci%C3%B3n%20profesional.docx)
+- [Presentación del Portafolio](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Declaraci%C3%B3n%20profesional.pdf)
 
 ## Estructura del Repositorio
 
