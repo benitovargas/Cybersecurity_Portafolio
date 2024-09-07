@@ -14,6 +14,10 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
    - **Herramienta:** Lista de verificación
    - [Lista de verificación de controles y cumplimiento](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/93054357e67d3937f4ab3f0493e6917a8c41f2e1/Controls%20and%20compliance%20checklist.pdf)
 
+### 2. [Escaneo de puertos y protocolos]
+   - **Descripción:** Este escenario se basa en una red ficticia donde participa un Cliente y Agente de amenaza.
+   - **Herramienta:** NMAP
+   - [NMAP Kali Linux](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/NMAP%20en%20Kali%20Linux.pdf)
 
 
 
