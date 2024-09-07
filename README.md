@@ -17,7 +17,7 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 ### 2. [Escaneo de puertos y protocolos]
    - **Descripción:** Este escenario se basa en una red ficticia donde participa un Cliente y Agente de amenaza.
    - **Herramienta:** NMAP
-   - [NMAP Kali Linux](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/NMAP%20en%20Kali%20Linux.pdf)
+   - [NMAP con Kali Linux](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/NMAP%20en%20Kali%20Linux.pdf)
 
 
 
