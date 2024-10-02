@@ -17,6 +17,10 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
    - **Herramienta:** NMAP
    - [NMAP con Kali Linux](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/NMAP%20en%20Kali%20Linux.pdf)
 
+### 3. [Permisos de archivo en Linux] 🐧
+   - **Descripción:** En esta investigación de mi organización se necesita actualizar los permisos de archivo para ciertos archivos y directorios dentro del directorio projects. 
+   - **Herramienta:** Linux (distribución Linux o Ubuntu)
+   - [NMAP con Kali Linux](Use-Linux-commands-to-manage-file-permissions-in-Linux.pdf)
 
 
 
