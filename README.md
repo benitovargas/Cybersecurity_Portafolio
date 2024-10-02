@@ -20,7 +20,7 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 ### 3. [Permisos de archivo en Linux] 🐧
    - **Descripción:** En esta investigación de mi organización se necesita actualizar los permisos de archivo para ciertos archivos y directorios dentro del directorio projects. 
    - **Herramienta:** Linux (distribución Linux o Ubuntu)
-   - [NMAP con Kali Linux](Use-Linux-commands-to-manage-file-permissions-in-Linux.pdf)
+   - [Kali Linux - Administración de archivos y directorios](Use-Linux-commands-to-manage-file-permissions-in-Linux.pdf)
 
 
 
