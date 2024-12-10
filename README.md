@@ -24,6 +24,6 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
 
 ### 4. [Actualiza un archivo a través de un algoritmo Python] 🐍
    - Detalles sobre el uso de una sentencia with y la función open() en el algoritmo. Métodos .read(), .write(), .split(), .remove() y bucle for.
-   - [Documento] (Actualizar un archivo a través de un algoritmo de Python.pdf)
+   - [Documento](https://github.com/benitovargas/Cybersecurity_Portafolio/blob/main/Actualizar%20un%20archivo%20a%20trav%C3%A9s%20de%20un%20algoritmo%20de%20Python.pdf))
 
 
