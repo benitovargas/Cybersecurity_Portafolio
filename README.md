@@ -22,6 +22,8 @@ Portafolio de proyectos y prácticas en Ciberseguridad.
    - **Herramienta:** Linux (distribución Linux o Ubuntu)
    - [Kali Linux - Administración de archivos y directorios](Use-Linux-commands-to-manage-file-permissions-in-Linux.pdf)
 
-
+### 4. [Actualiza un archivo a través de un algoritmo Python] 🐍
+   - Detalles sobre el uso de una sentencia with y la función open() en el algoritmo. Métodos .read(), .write(), .split(), .remove() y bucle for.
+   - [Documento] ()
 
 
